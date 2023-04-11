@@ -1,6 +1,6 @@
 # UCB-ML-Practical-5.1
 
-Repo containing my take on Practical Assignment 5.1 from UCB ML/AI course. See Readme for short report, or the attached `Notebook.ipynb` file for all the details.
+Repo containing my take on Practical Assignment 5.1 from UCB ML/AI course. See Readme for short report, or the attached [Notebook.ipynb](Notebook.ipynb) file for all the details.
 
 ## Short report on findings
 
