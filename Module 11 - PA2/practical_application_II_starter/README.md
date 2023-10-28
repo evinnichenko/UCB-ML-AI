@@ -1,6 +1,6 @@
-# Practical Application 1
+# Practical Application 2
 
-Link to the Jupyter notebook: link
+Link to the Jupyter notebook: [link](/prompt_II.ipynb)
 
 WARNING! In order to save space, all outputs were cleared. To get some of the graphs you need to run the notebook on your computer.
 
