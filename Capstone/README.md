@@ -20,16 +20,12 @@ Plan so far is to see what I can do with various types of regression (linear, de
 #### Results
 What did your research find?
 
-*- Nothing so far, it's EDA stage*
+Unfortunately, nothing. The goal was to produce a good prediction model, and all my options, even ARIMA that I hoped would be the right answer, didn't profuce any good results. honestly, this is a fail that is only getting submitted due to running out of time.
 
 #### Next steps
-What suggestions do you have for next steps?
+I suspect that my bad results stem from bad data preparation, although I am puzzled as to where exactly my mistake lies. Perhaps, this direction is worth looking into.
 
 #### Outline of project
-
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
-
+[Preliminary report](/Preliminary%20report.ipynb)
 
 ##### Contact and Further Information
